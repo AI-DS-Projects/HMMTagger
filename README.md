@@ -23,3 +23,6 @@ hmm-tagger/ $ source activate hmm-tagger
 ```
 
 Depending on your system settings, Jupyter will either open a browser window, or the terminal will print a URL with a security token. If the terminal prints a URL, simply copy the URL and paste it into a browser window to load the Jupyter browser. Once you load the Jupyter browser, select the project notebook (HMM tagger.ipynb)
+
+## Reference
+https://www.mygreatlearning.com/blog/pos-tagging/
